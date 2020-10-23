@@ -1,0 +1,225 @@
+
+
+ 
+      .jumbotron{
+        margin-top: 20px;
+        background-image: url(bg.jpg);
+        background-size: cover;
+        color: white;
+        text-align: center;
+        opacity: 1;
+        
+
+      }
+    .white{
+    	background-color: #F4F6F7;
+    	opacity: 0.8;
+    	color: white;
+    	
+        
+    	width: 750px;
+    	height: 55px;
+    	display: inline-flex;
+
+    }
+    .in{
+    	background-color: white;
+    	text-align: left;
+    	margin-left: 15px;
+    	border-color: white;
+    	margin-top: 10px;
+    	margin-bottom: 10px;
+    	color: black;
+
+    }
+
+    .par{
+    	color: white;
+    	text-align: left;
+    	margin-top: 20px;
+    	margin-left: 120px;
+
+    }
+    #yes{
+    	width: 200px;
+	border: none;
+	border-radius: 3px;
+	outline: 0px;
+	padding: 7px;
+
+    }
+
+    .ph{
+    	border-color: white;
+    	background-color:#707B7C;
+    	opacity: 1;
+    	color: white; 
+
+    }
+
+      @media only screen and (max-width: 768px){
+      	.white{
+      		background-color: #F4F6F7;
+    	opacity: 0.8;
+    	color: white;
+    	
+        
+    	width: 350px;
+    	height: 240px;
+    	display: inline-grid;
+      	}
+      }
+
+      .pr{
+      	margin-left: 250px; 
+      	margin-top: 40px;
+      }
+      @media only screen and (max-width: 768px){
+      	.pr{
+      		margin-left: 40px;
+      		margin-top: 10px;
+      	}
+      }
+
+
+      .ads{
+              margin: 5px;
+  border: 1px solid #ccc;
+  width: 200px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+  display: inline-grid;
+      }
+
+@media only screen and (max-width: 768px){
+	.ads{
+		 margin: 5px;
+  border: 1px solid #ccc;
+  width: 200px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+  display: inline-block;
+	}
+}
+
+
+   .im{
+   	width: 200px;
+   	height: 100px;
+   }
+
+   .desc{
+   	background-color: white;
+   }
+
+   .fu{
+   	margin-left: 20px;
+   	border-radius: 50px;
+   	border:none;
+   	margin-top: 10px;
+   	text-align: center;
+   }
+   .gol{
+   	border-radius: 50px;
+   	border:none;
+   }
+
+.checked {
+  color: orange;
+}
+
+.dis{
+	display: inline-grid;
+	margin-left: 130px;
+	text-align: center;
+	
+}
+
+.pri{
+	color: #2CA6EC;
+	text-align: center;
+	
+
+}
+
+
+.sads{
+	 margin: 5px;
+     	background-color: white;
+
+  width: 500px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+  display: inline-block;
+  border-radius: 10px;
+  height: 250px;
+  box-shadow: 2px 2px 2px 2px;
+}
+.sads img {
+  width: 200px;
+  height: 200px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.fuf{
+		margin-left: 20px;
+   	border-radius: 50px;
+   	border:none;
+
+   
+}
+
+.man{
+  margin: 5px;
+  border: none;
+  width: 300px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+  display: inline-block;
+}
+.ima{
+	width: 300px;
+	height: 200px;
+}
+
+.men{
+text-align: left;
+}
+.hem{
+	display: inline-block;
+}
+.fa-facebook {
+  
+  color: white;
+
+}
+
+.fa-twitter {
+  
+  color: white;
+}
+
+.fa-linkedin {
+  color: white;
+}
+
+
+.fa-instagram {
+  
+  color: white;
+  }
+
+  .fa-pinterest {
+  
+  color: white;
+}
+
+.new{
+  display: inline-flex;
+
+}
+
+.sar{
+  background-color: #696C6C;
+}
